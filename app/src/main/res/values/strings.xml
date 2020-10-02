@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Week2demo</string>
+    <string name="name">Nombre completo</string>
+    <string name="date">Fecha de nacimiento</string>
+    <string name="phone">Teléfono</string>
+    <string name="mail">Email</string>
+    <string name="description">Descripción del contacto</string>
+    <string name="invalid_inputs">Datos invalidos</string>
+    <string name="next">Siguiente</string>
+    <string name="back">Editar Datos</string>
+</resources>
